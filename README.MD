@@ -41,4 +41,5 @@ Here's the list of what needs to be implemented:
 ## Compiling
 
 Clone the repository (or download the archive) and open the solution project in Visual Studio 2017 and compile it. (requires .NET Framework 4.7)
- does it work?
+ does it work? 
+ yes it does
